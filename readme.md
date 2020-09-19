@@ -38,8 +38,8 @@
             <div class="col-6">
                 <h2>Где записаться?</h2>
                 <p>Мой инстаграм и вк:</p>
-                <a href="https://vk.com/14velesov88" target="_blank"><img src="https://portal.iv-edu.ru/dep/mouopalex/mkoudodpalexcvr/commondocs/картинки/для%20оформления/вк.png" height="auto" width="10%"></a>
-                <a href="https://www.instagram.com/neofitx/" target="_blank"><img src="https://сибоил.рф/wp-content/uploads/2018/07/instagram-icone-icon.png" height="auto" width="10%"></a>
+                <a href="https://vk.com/14velesov88" target="_blank"><img src="https://portal.iv-edu.ru/dep/mouopalex/mkoudodpalexcvr/commondocs/картинки/для%20оформления/вк.png" height="auto" width="10%" alt="вк"></a>
+                <a href="https://www.instagram.com/neofitx/" target="_blank"><img src="https://avatanplus.com/files/resources/original/5c47fe52787d31687939723e.png" height="auto" width="10%"alt="инста"></a>
             </div>
         </div>
     </div>
