@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1 class="display-2" align="center">Инфо-цыганин</h1>
+    
     <div class="container">
         <div class="row row-cols-2">
           <div class="col-3">
