@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 </head>
 <body>
-    <h1 class="display-2" align="center">Инфо-цыганин</h1>
+    <h1 class="display-2" align="center">Инфо-цыган</h1>
     <div class="container">
         <div class="row row-cols-2">
           <div class="col-3">
